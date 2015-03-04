@@ -1,0 +1,6 @@
+---
+# defaults file for snmp
+
+community_string: MyCustomCommunityString
+
+

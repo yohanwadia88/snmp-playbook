@@ -1,0 +1,8 @@
+---
+## PLAYBOOK TO INSTALL AND CONFIGURE SNMP ON REDHAT/ DEBIAN SYSTEMS
+
+- hosts: all
+  roles:
+     - snmp
+
+
